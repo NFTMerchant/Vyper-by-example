@@ -1,1 +1,2 @@
-# erc721vyper
+Vyper by example
+
